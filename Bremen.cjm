@@ -1,0 +1,595 @@
+REM CJC sw=2,bt=1,cu=1,it=1,mf=cut,ms=1,sn=cut_txt,vr=1,ve=1,cd=1,dd=1
+
+TITLE ""
+FILE "english.mp3" MP3
+  TRACK 01 AUDIO
+    TITLE "0:"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "eng01"
+    INDEX 01 00:25:35
+  TRACK 03 AUDIO
+    TITLE "eng02"
+    INDEX 01 00:37:56
+  TRACK 04 AUDIO
+    TITLE "eng03"
+    INDEX 01 00:53:64
+  TRACK 05 AUDIO
+    TITLE "eng04"
+    INDEX 01 01:00:68
+  TRACK 06 AUDIO
+    TITLE "eng05"
+    INDEX 01 01:07:57
+  TRACK 07 AUDIO
+    TITLE "eng06"
+    INDEX 01 01:24:67
+  TRACK 08 AUDIO
+    TITLE "eng07"
+    INDEX 01 01:36:03
+  TRACK 09 AUDIO
+    TITLE "eng08"
+    INDEX 01 01:41:16
+  TRACK 10 AUDIO
+    TITLE "eng09"
+    INDEX 01 01:44:58
+  TRACK 11 AUDIO
+    TITLE "eng10"
+    INDEX 01 01:51:32
+  TRACK 12 AUDIO
+    TITLE "eng11"
+    INDEX 01 01:58:72
+  TRACK 13 AUDIO
+    TITLE "eng12"
+    INDEX 01 02:04:17
+  TRACK 14 AUDIO
+    TITLE "eng13"
+    INDEX 01 02:16:11
+  TRACK 15 AUDIO
+    TITLE "eng14"
+    INDEX 01 02:23:58
+  TRACK 16 AUDIO
+    TITLE "eng15"
+    INDEX 01 02:33:56
+  TRACK 17 AUDIO
+    TITLE "eng16"
+    INDEX 01 02:37:40
+  TRACK 18 AUDIO
+    TITLE "eng17"
+    INDEX 01 02:45:56
+  TRACK 19 AUDIO
+    TITLE "eng18"
+    INDEX 01 02:53:57
+  TRACK 20 AUDIO
+    TITLE "eng19"
+    INDEX 01 03:03:14
+  TRACK 21 AUDIO
+    TITLE "eng20"
+    INDEX 01 03:18:35
+  TRACK 22 AUDIO
+    TITLE "eng21"
+    INDEX 01 03:24:48
+  TRACK 23 AUDIO
+    TITLE "eng22"
+    INDEX 01 03:40:12
+  TRACK 24 AUDIO
+    TITLE "eng23"
+    INDEX 01 03:48:07
+  TRACK 25 AUDIO
+    TITLE "eng24"
+    INDEX 01 03:52:42
+  TRACK 26 AUDIO
+    TITLE "eng25"
+    INDEX 01 04:00:40
+  TRACK 27 AUDIO
+    TITLE "eng26"
+    INDEX 01 04:11:10
+  TRACK 28 AUDIO
+    TITLE "eng27"
+    INDEX 01 04:25:08
+  TRACK 29 AUDIO
+    TITLE "eng28"
+    INDEX 01 04:41:13
+  TRACK 30 AUDIO
+    TITLE "eng29"
+    INDEX 01 04:52:54
+  TRACK 31 AUDIO
+    TITLE "eng30"
+    INDEX 01 04:56:42
+  TRACK 32 AUDIO
+    TITLE "eng31"
+    INDEX 01 05:00:46
+  TRACK 33 AUDIO
+    TITLE "eng32"
+    INDEX 01 05:14:19
+  TRACK 34 AUDIO
+    TITLE "eng33"
+    INDEX 01 05:18:30
+  TRACK 35 AUDIO
+    TITLE "eng34"
+    INDEX 01 05:25:11
+  TRACK 36 AUDIO
+    TITLE "eng35"
+    INDEX 01 05:32:30
+  TRACK 37 AUDIO
+    TITLE "eng36"
+    INDEX 01 05:36:61
+  TRACK 38 AUDIO
+    TITLE "eng37"
+    INDEX 01 05:46:26
+  TRACK 39 AUDIO
+    TITLE "eng38"
+    INDEX 01 05:55:49
+  TRACK 40 AUDIO
+    TITLE "eng39"
+    INDEX 01 06:05:20
+  TRACK 41 AUDIO
+    TITLE "eng40"
+    INDEX 01 06:13:08
+  TRACK 42 AUDIO
+    TITLE "eng41"
+    INDEX 01 06:27:43
+  TRACK 43 AUDIO
+    TITLE "eng42"
+    INDEX 01 06:43:71
+  TRACK 44 AUDIO
+    TITLE "eng43"
+    INDEX 01 06:54:52
+  TRACK 45 AUDIO
+    TITLE "eng44"
+    INDEX 01 07:00:72
+  TRACK 46 AUDIO
+    TITLE "eng45"
+    INDEX 01 07:11:23
+  TRACK 47 AUDIO
+    TITLE "eng46"
+    INDEX 01 07:27:26
+  TRACK 48 AUDIO
+    TITLE "eng47"
+    INDEX 01 08:02:40
+  TRACK 49 AUDIO
+    TITLE "0:"
+    INDEX 01 08:22:07
+    
+TITLE ""
+FILE "japanese.mp3" MP3
+  TRACK 01 AUDIO
+    TITLE "0:"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "jpn01"
+    INDEX 01 00:16:12
+  TRACK 03 AUDIO
+    TITLE "jpn02"
+    INDEX 01 00:26:30
+  TRACK 04 AUDIO
+    TITLE "jpn03"
+    INDEX 01 00:58:13
+  TRACK 05 AUDIO
+    TITLE "jpn04"
+    INDEX 01 01:15:52
+  TRACK 06 AUDIO
+    TITLE "jpn05"
+    INDEX 01 01:22:44
+  TRACK 07 AUDIO
+    TITLE "jpn06"
+    INDEX 01 01:48:71
+  TRACK 08 AUDIO
+    TITLE "jpn07"
+    INDEX 01 02:03:18
+  TRACK 09 AUDIO
+    TITLE "jpn08"
+    INDEX 01 02:08:37
+  TRACK 10 AUDIO
+    TITLE "jpn09"
+    INDEX 01 02:13:61
+  TRACK 11 AUDIO
+    TITLE "jpn10"
+    INDEX 01 02:23:60
+  TRACK 12 AUDIO
+    TITLE "jpn11"
+    INDEX 01 02:32:55
+  TRACK 13 AUDIO
+    TITLE "jpn12"
+    INDEX 01 02:38:54
+  TRACK 14 AUDIO
+    TITLE "jpn13"
+    INDEX 01 02:58:64
+  TRACK 15 AUDIO
+    TITLE "jpn14"
+    INDEX 01 03:10:69
+  TRACK 16 AUDIO
+    TITLE "jpn15"
+    INDEX 01 03:23:19
+  TRACK 17 AUDIO
+    TITLE "jpn16"
+    INDEX 01 03:27:58
+  TRACK 18 AUDIO
+    TITLE "jpn17"
+    INDEX 01 03:41:11
+  TRACK 19 AUDIO
+    TITLE "jpn18"
+    INDEX 01 03:48:17
+  TRACK 20 AUDIO
+    TITLE "jpn19"
+    INDEX 01 04:04:57
+  TRACK 21 AUDIO
+    TITLE "jpn20"
+    INDEX 01 04:24:19
+  TRACK 22 AUDIO
+    TITLE "jpn21"
+    INDEX 01 04:33:25
+  TRACK 23 AUDIO
+    TITLE "jpn22"
+    INDEX 01 04:49:15
+  TRACK 24 AUDIO
+    TITLE "jpn23"
+    INDEX 01 04:58:47
+  TRACK 25 AUDIO
+    TITLE "0:"
+    INDEX 01 05:07:01
+  TRACK 26 AUDIO
+    TITLE "jpn24"
+    INDEX 01 05:08:38
+  TRACK 27 AUDIO
+    TITLE "jpn25"
+    INDEX 01 05:19:29
+  TRACK 28 AUDIO
+    TITLE "jpn26"
+    INDEX 01 05:37:45
+  TRACK 29 AUDIO
+    TITLE "jpn27"
+    INDEX 01 05:58:49
+  TRACK 30 AUDIO
+    TITLE "jpn28"
+    INDEX 01 06:19:51
+  TRACK 31 AUDIO
+    TITLE "jpn29"
+    INDEX 01 06:38:00
+  TRACK 32 AUDIO
+    TITLE "jpn30"
+    INDEX 01 06:45:64
+  TRACK 33 AUDIO
+    TITLE "jpn31"
+    INDEX 01 06:50:17
+  TRACK 34 AUDIO
+    TITLE "jpn32"
+    INDEX 01 07:08:22
+  TRACK 35 AUDIO
+    TITLE "jpn33"
+    INDEX 01 07:12:36
+  TRACK 36 AUDIO
+    TITLE "jpn34"
+    INDEX 01 07:17:45
+  TRACK 37 AUDIO
+    TITLE "jpn35"
+    INDEX 01 07:29:30
+  TRACK 38 AUDIO
+    TITLE "jpn36"
+    INDEX 01 07:47:71
+  TRACK 39 AUDIO
+    TITLE "jpn37"
+    INDEX 01 08:18:56
+  TRACK 40 AUDIO
+    TITLE "jpn38"
+    INDEX 01 08:37:30
+  TRACK 41 AUDIO
+    TITLE "0:"
+    INDEX 01 08:54:29
+  TRACK 42 AUDIO
+    TITLE "jpn39"
+    INDEX 01 08:55:59
+  TRACK 43 AUDIO
+    TITLE "jpn40"
+    INDEX 01 09:08:46
+  TRACK 44 AUDIO
+    TITLE "jpn41"
+    INDEX 01 09:32:31
+  TRACK 45 AUDIO
+    TITLE "jpn42"
+    INDEX 01 09:55:38
+  TRACK 46 AUDIO
+    TITLE "jpn43"
+    INDEX 01 10:13:26
+  TRACK 47 AUDIO
+    TITLE "jpn44"
+    INDEX 01 10:23:50
+  TRACK 48 AUDIO
+    TITLE "jpn45"
+    INDEX 01 10:38:61
+  TRACK 49 AUDIO
+    TITLE "jpn46"
+    INDEX 01 10:57:20
+  TRACK 50 AUDIO
+    TITLE "jpn47"
+    INDEX 01 11:46:65
+  TRACK 51 AUDIO
+    TITLE "0:"
+    INDEX 01 12:12:41
+
+#CJJ sw=2,em=1,it=1,jo=1,sn=join_txt,ae=1,vi=1,vc=1
+#DIRINDEX 1\2,1\3
+#DIRNAME Bremen,ej,je
+#TAG TIT2=<filename>,TPE1=Bremen,TALB=Bremen
+
+#2:ej01
+eng01.mp3
+jpn01.mp3
+#2:ej02
+eng02.mp3
+jpn02.mp3
+#2:ej03
+eng03.mp3
+jpn03.mp3
+#2:ej04
+eng04.mp3
+jpn04.mp3
+#2:ej05
+eng05.mp3
+jpn05.mp3
+#2:ej06
+eng06.mp3
+jpn06.mp3
+#2:ej07
+eng07.mp3
+jpn07.mp3
+#2:ej08
+eng08.mp3
+jpn08.mp3
+#2:ej09
+eng09.mp3
+jpn09.mp3
+#2:ej10
+eng10.mp3
+jpn10.mp3
+#2:ej11
+eng11.mp3
+jpn11.mp3
+#2:ej12
+eng12.mp3
+jpn12.mp3
+#2:ej13
+eng13.mp3
+jpn13.mp3
+#2:ej14
+eng14.mp3
+jpn14.mp3
+#2:ej15
+eng15.mp3
+jpn15.mp3
+#2:ej16
+eng16.mp3
+jpn16.mp3
+#2:ej17
+eng17.mp3
+jpn17.mp3
+#2:ej18
+eng18.mp3
+jpn18.mp3
+#2:ej19
+eng19.mp3
+jpn19.mp3
+#2:ej20
+eng20.mp3
+jpn20.mp3
+#2:ej21
+eng21.mp3
+jpn21.mp3
+#2:ej22
+eng22.mp3
+jpn22.mp3
+#2:ej23
+eng23.mp3
+jpn23.mp3
+#2:ej24
+eng24.mp3
+jpn24.mp3
+#2:ej25
+eng25.mp3
+jpn25.mp3
+#2:ej26
+eng26.mp3
+jpn26.mp3
+#2:ej27
+eng27.mp3
+jpn27.mp3
+#2:ej28
+eng28.mp3
+jpn28.mp3
+#2:ej29
+eng29.mp3
+jpn29.mp3
+#2:ej30
+eng30.mp3
+jpn30.mp3
+#2:ej31
+eng31.mp3
+jpn31.mp3
+#2:ej32
+eng32.mp3
+jpn32.mp3
+#2:ej33
+eng33.mp3
+jpn33.mp3
+#2:ej34
+eng34.mp3
+jpn34.mp3
+#2:ej35
+eng35.mp3
+jpn35.mp3
+#2:ej36
+eng36.mp3
+jpn36.mp3
+#2:ej37
+eng37.mp3
+jpn37.mp3
+#2:ej38
+eng38.mp3
+jpn38.mp3
+#2:ej39
+eng39.mp3
+jpn39.mp3
+#2:ej40
+eng40.mp3
+jpn40.mp3
+#2:ej41
+eng41.mp3
+jpn41.mp3
+#2:ej42
+eng42.mp3
+jpn42.mp3
+#2:ej43
+eng43.mp3
+jpn43.mp3
+#2:ej44
+eng44.mp3
+jpn44.mp3
+#2:ej45
+eng45.mp3
+jpn45.mp3
+#2:ej46
+eng46.mp3
+jpn46.mp3
+#2:ej47
+eng47.mp3
+jpn47.mp3
+#3:je01
+jpn01.mp3
+eng01.mp3
+#3:je02
+jpn02.mp3
+eng02.mp3
+#3:je03
+jpn03.mp3
+eng03.mp3
+#3:je04
+jpn04.mp3
+eng04.mp3
+#3:je05
+jpn05.mp3
+eng05.mp3
+#3:je06
+jpn06.mp3
+eng06.mp3
+#3:je07
+jpn07.mp3
+eng07.mp3
+#3:je08
+jpn08.mp3
+eng08.mp3
+#3:je09
+jpn09.mp3
+eng09.mp3
+#3:je10
+jpn10.mp3
+eng10.mp3
+#3:je11
+jpn11.mp3
+eng11.mp3
+#3:je12
+jpn12.mp3
+eng12.mp3
+#3:je13
+jpn13.mp3
+eng13.mp3
+#3:je14
+jpn14.mp3
+eng14.mp3
+#3:je15
+jpn15.mp3
+eng15.mp3
+#3:je16
+jpn16.mp3
+eng16.mp3
+#3:je17
+jpn17.mp3
+eng17.mp3
+#3:je18
+jpn18.mp3
+eng18.mp3
+#3:je19
+jpn19.mp3
+eng19.mp3
+#3:je20
+jpn20.mp3
+eng20.mp3
+#3:je21
+jpn21.mp3
+eng21.mp3
+#3:je22
+jpn22.mp3
+eng22.mp3
+#3:je23
+jpn23.mp3
+eng23.mp3
+#3:je24
+jpn24.mp3
+eng24.mp3
+#3:je25
+jpn25.mp3
+eng25.mp3
+#3:je26
+jpn26.mp3
+eng26.mp3
+#3:je27
+jpn27.mp3
+eng27.mp3
+#3:je28
+jpn28.mp3
+eng28.mp3
+#3:je29
+jpn29.mp3
+eng29.mp3
+#3:je30
+jpn30.mp3
+eng30.mp3
+#3:je31
+jpn31.mp3
+eng31.mp3
+#3:je32
+jpn32.mp3
+eng32.mp3
+#3:je33
+jpn33.mp3
+eng33.mp3
+#3:je34
+jpn34.mp3
+eng34.mp3
+#3:je35
+jpn35.mp3
+eng35.mp3
+#3:je36
+jpn36.mp3
+eng36.mp3
+#3:je37
+jpn37.mp3
+eng37.mp3
+#3:je38
+jpn38.mp3
+eng38.mp3
+#3:je39
+jpn39.mp3
+eng39.mp3
+#3:je40
+jpn40.mp3
+eng40.mp3
+#3:je41
+jpn41.mp3
+eng41.mp3
+#3:je42
+jpn42.mp3
+eng42.mp3
+#3:je43
+jpn43.mp3
+eng43.mp3
+#3:je44
+jpn44.mp3
+eng44.mp3
+#3:je45
+jpn45.mp3
+eng45.mp3
+#3:je46
+jpn46.mp3
+eng46.mp3
+#3:je47
+jpn47.mp3
+eng47.mp3
