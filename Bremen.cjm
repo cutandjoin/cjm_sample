@@ -1,4 +1,4 @@
-REM CJC sw=2,bt=1,cu=1,it=1,mf=cut,ms=1,sn=cut_txt,vr=1,ve=1,cd=1,dd=1
+REM CJC sw=2,bt=1,cu=1,it=1,mf=cut,ms=1,sn=cut_txt,vr=1,ve=1,cd=1,dd=1,sr=1
 
 TITLE ""
 FILE "english.mp3" MP3
